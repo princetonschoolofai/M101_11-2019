@@ -4,6 +4,6 @@ First Class: https://colab.research.google.com/drive/1UHd4oI1gqzkZ3V6ps7lcgZ5KhG
 
 Second Class:https://colab.research.google.com/drive/1oNdM-lpJDbCxCIMJf3f7g03O3R_PDxGh
 
-Fourth Class: https://colab.research.google.com/drive/1_xS3sFGonMbtY9O1-L8PdK28NQp52Vm5#scrollTo=rUe1gVwo34_f
+Fourth Class: https://colab.research.google.com/drive/1_xS3sFGonMbtY9O1-L8PdK28NQp52Vm5
 
-              https://colab.research.google.com/drive/1VDML9Htw_E5ORCFopltQyKKze_jFUooC#scrollTo=kVclE7PvlKK0
+              https://colab.research.google.com/drive/1VDML9Htw_E5ORCFopltQyKKze_jFUooC
